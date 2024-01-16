@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-- 🌱 I'm currently learning natural language processing.
+- 🌱 I'm currently working on machine vision in healthcare.
 - 🔭I'm looking to move into a Junior Machine Learning role.
 - &#127891; I've been lucky enough to formalise my knowledge through AICore
 
